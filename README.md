@@ -1,1 +1,1 @@
-Real Time colaborative IDE in Rust
+Real Time colaborative enterprise like experiance in true color.
